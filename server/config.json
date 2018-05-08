@@ -17,6 +17,13 @@
       "extended": true,
       "limit": "100kb"
     },
-    "cors": false
+    "cors": false,
+    "errorHandler": {
+      "disableStackTrace": true
+    }
+  },
+  "legacyExplorer": false,
+  "appconfig": {
+    "s3weburlprefix": "https://s3-us-west-2.amazonaws.com/"
   }
 }

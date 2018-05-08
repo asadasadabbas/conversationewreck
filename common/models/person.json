@@ -6,11 +6,8 @@
   "options": {
     "validateUpsert": true
   },
-  "properties": {
-    "firstanme": {
-      "type": "string"
-    }
-  },
+  "timestamps": true,
+  "properties": {},
   "validations": [],
   "relations": {},
   "acls": [],
