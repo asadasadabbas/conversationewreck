@@ -7,8 +7,8 @@
     "name": "storage",
     "connector": "loopback-component-storage",
     "provider": "amazon",
-    "key": "hQUcJB0QVsc8CiT4O8GXKwbgIU7GLiS7mQTup8d5",
-    "keyId": "AKIAIWPISD2NQ4545ZIQ",
+    "key": "",
+    "keyId": "",
     "profile-photos": "conversationwreck/profile-photos",
     "maxFileSize": 104857600,
     "debug": false
